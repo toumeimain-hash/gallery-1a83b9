@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "baseUrl": "https://toumeimain-hash.github.io/gallery-1a83b9",
+  "generatedAt": "2026-08-07T02:09:42.321244300+00:00",
+  "galleries": [
+    {
+      "galleryId": "gallery_2",
+      "displayName": "ホームワールド",
+      "mode": "Grid4",
+      "images": [
+        {
+          "id": "cc186e47",
+          "thumbnail": "thumb/cc186e47.jpg",
+          "fullsize": "full/cc186e47.jpg",
+          "version": 1
+        },
+        {
+          "id": "6ac3a040",
+          "thumbnail": "thumb/6ac3a040.jpg",
+          "fullsize": "full/6ac3a040.jpg",
+          "version": 1
+        },
+        {
+          "id": "bf664338",
+          "thumbnail": "thumb/bf664338.jpg",
+          "fullsize": "full/bf664338.jpg",
+          "version": 1
+        },
+        {
+          "id": "bdb29b14",
+          "thumbnail": "thumb/bdb29b14.jpg",
+          "fullsize": "full/bdb29b14.jpg",
+          "version": 1
+        },
+        {
+          "id": "2d77ac77",
+          "thumbnail": "thumb/2d77ac77.jpg",
+          "fullsize": "full/2d77ac77.jpg",
+          "version": 1
+        },
+        {
+          "id": "b54ce742",
+          "thumbnail": "thumb/b54ce742.jpg",
+          "fullsize": "full/b54ce742.jpg",
+          "version": 1
+        },
+        {
+          "id": "b294e2d6",
+          "thumbnail": "thumb/b294e2d6.jpg",
+          "fullsize": "full/b294e2d6.jpg",
+          "version": 1
+        },
+        {
+          "id": "55cbed4d",
+          "thumbnail": "thumb/55cbed4d.jpg",
+          "fullsize": "full/55cbed4d.jpg",
+          "version": 1
+        },
+        {
+          "id": "3de56088",
+          "thumbnail": "thumb/3de56088.jpg",
+          "fullsize": "full/3de56088.jpg",
+          "version": 1
+        }
+      ]
+    }
+  ],
+  "githubRepo": "toumeimain-hash/gallery-1a83b9"
+}
